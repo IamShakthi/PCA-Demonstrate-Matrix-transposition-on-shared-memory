@@ -18,7 +18,7 @@ Save and execute the program.
 ## Program
 ```
 DEVELOPED BY : YUVASAKTHI N.C
-REGISTER NO : 21222224010
+REGISTER NO : 212222240120
 
 #include "common.h"
 #include <cuda_runtime.h>
